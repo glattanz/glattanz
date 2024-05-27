@@ -5,10 +5,9 @@ Eu sou Gabrielle Lattanzi, uma desenvolvedora apaixonada por tecnologia e inova�
 ## 🚀 Sobre Mim
 - 🔭 Atualmente estou trabalhando na Fugro Brasil
 - 🌱 Estou aprendendo C# e Angular!
-- 📫 Como me encontrar: g.lattanzi26@gmail.com | [LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/gabriellelattanzi/))
+- 📫 Como me encontrar: g.lattanzi26@gmail.com | [LinkedIn](https://www.linkedin.com/in/gabriellelattanzi/))
 
-## 🐍 Snake Animation
-![snake gif](https://github.com/seu-usuario/seu-usuario/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/glattanz/glattanz/blob/output/github-contribution-grid-snake.svg)
 
 ## 📊 Linguagens mais usadas
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=glattanz&layout=compact&theme=radical)
