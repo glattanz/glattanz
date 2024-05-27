@@ -5,7 +5,6 @@ Eu sou Gabrielle Lattanzi, uma desenvolvedora apaixonada por tecnologia e inova�
 ## 🚀 Sobre Mim
 - 🔭 Atualmente estou trabalhando na Fugro Brasil
 - 🌱 Estou aprendendo C# e Angular!
-- 👯 Estou procurando colaborar em [tipo de projetos ou áreas de interesse]
 - 📫 Como me encontrar: g.lattanzi26@gmail.com | [LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/gabriellelattanzi/))
 
 ## 🐍 Snake Animation
