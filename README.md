@@ -1,12 +1,9 @@
-# Olá, bem-vindo(a) ao meu perfil! 👋
+# Hi, I'm Gabi! 👋
 
-Eu sou Gabrielle Lattanzi, uma desenvolvedora apaixonada por tecnologia e inovação.
+## About me
+- 🔭 Working @Fugro Brazil
+- 🌱 Learning C# and Angular!
+- 💡 Used in college: C++, Java e Python
+- 📫 Reach me: g.lattanzi26@gmail.com | [LinkedIn](https://www.linkedin.com/in/gabriellelattanzi/))
 
-## Sobre Mim
-- 🔭 Atualmente estou trabalhando na Fugro Brasil
-- 🌱 Estou aprendendo C# e Angular!
-- 💡 Experiencias na faculdade com: C++, Java e Python
-- 📫 Como me encontrar: g.lattanzi26@gmail.com | [LinkedIn](https://www.linkedin.com/in/gabriellelattanzi/))
-
-## 📊 Linguagens mais usadas
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=glattanz&layout=compact&theme=radical)
+!(https://github-readme-stats.vercel.app/api/top-langs/?username=glattanz&layout=compact&theme=radical)
