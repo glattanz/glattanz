@@ -7,6 +7,8 @@ Eu sou Gabrielle Lattanzi, uma desenvolvedora apaixonada por tecnologia e inova�
 - 🌱 Estou aprendendo C# e Angular!
 - 💡 Experiencias na faculdade com: C++, Java e Python
 - 📫 Como me encontrar: g.lattanzi26@gmail.com | [LinkedIn](https://www.linkedin.com/in/gabriellelattanzi/))
+  
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
 
 ## 📊 Linguagens mais usadas
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=glattanz&layout=compact&theme=radical)
